@@ -1,4 +1,4 @@
 # GTA Mod Cleaner
 Mod Cleaner For GTA 5
 # How To Install
-Move The "GTA5Cleaner.exe" File Into Your GTA Files Are Located.
+Move The "gta5cleaner.exe" File Into Your GTA Files Are Located And Run It.
